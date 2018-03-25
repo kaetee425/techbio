@@ -1,0 +1,28 @@
+.resume {
+	margin: 25px 120px;
+}
+
+.sections {
+	text-align: center;
+	font-size: 26px;
+	text-decoration: underline overline;
+	font-family: 'Frijole', cursive;
+}
+
+.projExp, .jobExp, .school {
+	font-size: 26px;
+	font-weight: bold;
+	font-family: 'Mirza', cursive; 
+}
+
+.description {
+	text-decoration: underline;
+	font-family: 'Mirza', cursive;
+}
+
+p, li {
+	font-size: 22px;
+	font-family: 'Mirza', cursive;
+}
+
+

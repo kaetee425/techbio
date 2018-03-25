@@ -1,0 +1,55 @@
+.social li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 20px;
+}
+
+/*=====================*/
+textarea {
+	height: 200px;
+}
+
+form {
+	text-align: center;
+}
+
+label {
+	font-size: 22px;
+	float: left;
+}
+
+body {
+    font-family: 'Mirza', cursive; 
+}
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-size: 18px
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+    font-size: 18px
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+	width: 65%;
+	padding-top: 60px;
+}
