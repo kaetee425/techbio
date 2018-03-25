@@ -11,30 +11,31 @@ class Work extends Component {
 
 				<h2 className="sections">PROJECTS</h2>
 						
-					<h4 className="projExp">Wealth Point (LuX)</h4>
-					<p className="description">Easy platform to allow financial beginners to take the first leap into investing</p>
-					<ul>
-						<li>Created application using the MERN Stack</li>
-						<li>Global data research - integrated CharsJS</li>
-						<li>Passport OAuth for seamless authentication</li>
-						<li>Backend validation for a robust database and designed UX/UI interface</li>
-					</ul>
-
-					<h4 className="projExp">SavVy</h4>
+					<h4 className="projExp">a-Ha | <span id="proj">Product Owner & Full Stack Engineer</span></h4>
 					<p className="description">Social platform to allow users to find others of similar study subjects</p>
 					<ul>
 						<li>Created application using the MERN Stack</li>
-						<li>Built RESTful APIs to gather study locations and GPS signals</li>
+						<li>Built RESTful APIs to gather locations and GPS signals</li>
 						<li>Passport OAuth for seamless authentication</li>
 						<li>Backend validation for a robust database and designed UX/UI interface</li>
 					</ul>
 
-					<h4 className="projExp">V-Ducky</h4>
-					<p className="description">“Rubber Ducky Method” in real life, confirming all your thoughts</p>
+					<h4 className="projExp">DoCat | <span id="proj">Product Owner & Full Stack Engineer</span></h4>
+					<p className="description">Motivating todo application that grants you a kitty for each completed task</p>
 					<ul>	
-						<li>Created application using Python, Arduino boards, Onion Omega 2 </li>
-						<li>Kickstarter campaign success 120% </li>
-						<li>Designed UX/UI interface</li>
+						<li>Created application using the MERN Stack</li>
+						<li>Constructed user features: Twilio, task/db requests, timers, dates </li>
+						<li>Passport OAuth for seamless authentication</li>
+						<li>Backend validation for a robust database and designed UX/UI interface</li>
+					</ul>
+
+					<h4 className="projExp">EatMe | <span id="proj">Product Owner & FrontEnd Engineer</span></h4>
+					<p className="description">Find your new love for food and recreate it yourself</p>
+					<ul>
+						<li>Created application using Javascript and Sequelize</li>
+						<li>Passport authentication including Google, Facebook & Local</li>
+						<li>Constructed user features: API request, add/delete</li>
+						<li>Backend validation for a robust database and designed UX/UI interface</li>
 					</ul>
 
 				<h2 className="sections">EXPERIENCE</h2>
