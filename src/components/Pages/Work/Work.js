@@ -11,7 +11,7 @@ class Work extends Component {
 
 				<h2 className="sections">PROJECTS</h2>
 						
-					<h4 className="projExp">a-Ha | <span id="proj">Product Owner & Full Stack Engineer</span></h4>
+					<h4 className="projExp">Lumi | <span id="proj">Product Owner & Full Stack Engineer</span></h4>
 					<p className="description">Social platform to allow users to find others of similar study subjects</p>
 					<ul>
 						<li>Created application using the MERN Stack</li>
